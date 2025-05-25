@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Manasa B</h1>
 <h3 align="center">Full Stack Developer | CS Diploma Student</h3>
 
 - 🔭 I’m currently working on **[Your Project Name]**
 - 🌱 I’m currently learning **Data Science, Bootstrap, Next.js**
 - 👯 I’m looking to collaborate on **Open Source and Real-time Web Apps**
 - 💬 Ask me about **React, Spring Boot, MySQL, MongoDB**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **manasab023@gmail.com.com**
 - 📄 Know about my experiences: [My Resume Link](#)
 
 ---
