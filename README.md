@@ -1,10 +1,9 @@
-[resume.pdf](https://github.com/user-attachments/files/20628049/resume.pdf)
 <h1 align="center">Hello, I'm Manasa B</h1>
 <h3 align="center">Full Stack Developer | Passionate About Building Smart & Scalable Solutions | Diploma in CSE</h3>
 
 -  I’m looking to collaborate on **Open Source and Real-time Web Apps**
 -  How to reach me: **manasab023@gmail.com.com**
-- Know about my experiences: [My Resume Link]((https://github.com/manasab23/manasab23/blob/main/Manasa_B_Resume.pdf))
+- Know about my experiences: [My Resume](https://github.com/user-attachments/files/20628049/resume.pdf)
 
 ---
 
@@ -43,7 +42,6 @@
 
 ####  Soft Skills  
 Fast Learner • Leadership • Teamwork • Problem Solving
-[resume.pdf](https://github.com/user-attachments/files/20628054/resume.pdf)
 
 ---
 
