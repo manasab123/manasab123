@@ -1,3 +1,4 @@
+[resume.pdf](https://github.com/user-attachments/files/20628049/resume.pdf)
 <h1 align="center">Hello, I'm Manasa B</h1>
 <h3 align="center">Full Stack Developer | Passionate About Building Smart & Scalable Solutions | Diploma in CSE</h3>
 
@@ -42,6 +43,7 @@
 
 ####  Soft Skills  
 Fast Learner • Leadership • Teamwork • Problem Solving
+[resume.pdf](https://github.com/user-attachments/files/20628054/resume.pdf)
 
 ---
 
