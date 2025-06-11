@@ -3,7 +3,7 @@
 
 -  I’m looking to collaborate on **Open Source and Real-time Web Apps**
 -  How to reach me: **manasab023@gmail.com.com**
-- Know about my experiences: [My Resume](https://github.com/user-attachments/files/20628049/resume.pdf)
+- Know about my experiences: [My Resume](https://docs.google.com/document/d/1YT05RGkjOpk4bft-E4JHsYlgDmwz3l6j/edit?usp=sharing&ouid=113512877091306569236&rtpof=true&sd=true)
 
 ---
 
